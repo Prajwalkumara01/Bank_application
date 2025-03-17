@@ -1,2 +1,2 @@
 # Bank_application
-a mini project which offers smooth bank operation.
+a mini hibernate project that offers smooth bank operation.
